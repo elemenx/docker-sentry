@@ -34,5 +34,4 @@ jobs:
           platforms: linux/amd64
           push: true
           tags: |
-            elemenx/sentry:latest
             elemenx/sentry:21.8.0
