@@ -1,3 +1,3 @@
-FROM getsentry/sentry:21.8.0
+FROM getsentry/sentry:22.2.0
 
 RUN pip install sentry-wxwork
